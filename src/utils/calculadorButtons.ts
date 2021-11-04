@@ -1,4 +1,4 @@
-type ButtonType = "number" | "operator" | "clear";
+export type ButtonType = "number" | "operator" | "clear";
 
 type CalculatorButtons = {
   label: string;

@@ -1,11 +1,9 @@
 import React, { useState } from "react";
 import { View, SafeAreaView, Text } from "react-native";
 import { Button, Display } from "../../components";
-import { calculatorButtons } from "../../utils/calculadorButtons";
+import { ButtonType, calculatorButtons } from "../../utils/calculadorButtons";
 
 import { styles } from "./styles";
-
-type ButtonType = "number" | "operator" | "clear";
 
 const initialState = {
   displayValue: "0",
