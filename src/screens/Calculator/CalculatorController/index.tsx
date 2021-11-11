@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { ButtonType } from "../../../utils/calculatorButtons";
+import { ButtonType } from "../../../types";
 import { CaculatorView } from "../CaculatorView";
 
 const initialState = {

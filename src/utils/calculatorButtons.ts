@@ -1,11 +1,6 @@
-export type ButtonType = "number" | "operator" | "clear";
+import { CalculatorButton } from "../types"
 
-type CalculatorButtons = {
-  label: string;
-  type: ButtonType;
-}[]
-
-export const calculatorButtons = [
+export const calculatorButtons: CalculatorButton[] = [
   {
     label: "AC",
     type: "clear",
@@ -74,5 +69,5 @@ export const calculatorButtons = [
     label: "=",
     type: "operator",
   },
-] as CalculatorButtons;
+]
 
