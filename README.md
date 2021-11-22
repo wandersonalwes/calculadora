@@ -1,7 +1,7 @@
 #  :1234: Calculadora
 > Uma calculadora simples desenvolvida com [React Native](https://reactnative.dev/), [Expo](https://expo.dev/) e [TypeScript](https://www.typescriptlang.org/).
 
-[![License](https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12)](https://github.com/wandersonalwes/calculadora/blob/master/LICENSE) [![Languages](https://img.shields.io/github/languages/count/wandersonalwes/calculadora?color=%33CC12&style=flat-square)](#) [![Stars](https://img.shields.io/github/stars/wandersonalwes/calculadora?color=33CC12&style=flat-square)](https://github.com/wandersonalwes/calculadorab/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12)](https://github.com/wandersonalwes/calculadora/blob/master/LICENSE) [![Languages](https://img.shields.io/github/languages/count/wandersonalwes/calculadora?color=%33CC12&style=flat-square)](#) [![Stars](https://img.shields.io/github/stars/wandersonalwes/calculadora?color=33CC12&style=flat-square)](https://github.com/wandersonalwes/calculadora/stargazers)
 [![Forks](https://img.shields.io/github/forks/wandersonalwes/calculadora?color=%33CC12&style=flat-square)](https://github.com/wandersonalwes/calculadora/network/members)
 [![Contributors](https://img.shields.io/github/contributors/wandersonalwes/calculadora?color=33CC12&style=flat-square)](https://github.com/wandersonalwes/calculadora/graphs/contributors)
 
